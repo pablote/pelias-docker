@@ -52,7 +52,8 @@
     "openaddresses": {
       "datapath": "/data/openaddresses",
       "files": [
-        "ar/c/city_of_buenos_aires.csv"
+        "ar/c/city_of_buenos_aires.csv",
+        "ar/m/mendoza.csv"
       ]
     },
     "polyline": {
